@@ -5,5 +5,7 @@ using namespace std;
 
 int main() {
 	func1();
+	func2();
+	// Goi them ham func2
 	return 0;
 }
