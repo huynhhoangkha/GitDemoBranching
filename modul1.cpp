@@ -2,4 +2,5 @@
 
 void func1() {
     // Todo
+    // cout << "Hello!" << endl;
 }
